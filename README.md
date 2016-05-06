@@ -11,3 +11,5 @@ To build the slides in Rstudio, run these commands:
     slidify('index.Rmd')
 
 See the presentation here: [http://timwise.github.io/queue-calculator-slides](http://timwise.github.io/queue-calculator-slides "http://timwise.github.io/queue-calculator-slides")
+
+See the app here: [http://timwise.shinyapps.io/queue-calculator](http://timwise.shinyapps.io/queue-calculator/)
