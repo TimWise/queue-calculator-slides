@@ -11,9 +11,8 @@ url:
   lib: ./libraries
   assets: ./assets
 widgets     : [mathjax, quiz, bootstrap]   # {mathjax, quiz, bootstrap}
-mode        : selfcontained                # {selfcontained, standalone, draft}
+mode        : standalone                # {selfcontained for github, standalone for rpubs, draft}
 knit        : slidfy::knit2slides        
-
 ---&twocol
 
 ## A Quick Introduction to Queueing Theory
